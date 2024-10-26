@@ -1,0 +1,7 @@
+.alert-error{
+    color: #721c24; /* Color de texto */
+    background-color: #f8d7da; /* Fondo rojo claro */
+    border: 1px solid #f5c6cb; /* Borde rojo */
+    padding: 10px;
+    margin: 15px 0;
+}
